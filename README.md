@@ -1,2 +1,2 @@
-# AlienHunter
-This is the implementation of the alien hunter game using processing
+# AlienHunterGame
+This is an implementation of the Alien Hunter Game
